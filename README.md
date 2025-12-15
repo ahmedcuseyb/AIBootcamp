@@ -19,6 +19,7 @@ Deploy trained models for real-world usage
 Connect ML models to user interfaces
 
 🗂️ Lesson Plan Structure
+
 🔹 Prerequisite
 Python basics
 Machine Learning Libraries
