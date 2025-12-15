@@ -1,9 +1,12 @@
 7-Day Machine Learning Training Program
 
  Overview
-This repository documents a 7-day intensive Machine Learning training program designed to take learners from foundational concepts to real-world model deployment.
-The program emphasizes hands-on practice, clear explanations, and practical deployment using modern tools.
+ 
+This repository documents a 7-day Machine Learning training program structured into 5 days of guided learning and 2 days of hands-on practical implementation.
+The program is designed to take learners from foundational concepts to real-world machine learning model deployment, with strong emphasis on practice and real applications.
+
 By the end of this training, participants gain a solid understanding of:
+
 Data preprocessing
 Feature engineering
 Machine learning algorithms
@@ -51,6 +54,16 @@ Deploying user interface and models for real-world use
 Understanding model deployment workflows
 
 
+Day 6–7: Practical Implementation (Projects)
+
+Students built end-to-end machine learning projects
+
+Applied data preprocessing and feature engineering
+
+Trained and evaluated machine learning models
+
+Built user interfaces.
+
 🛠️ Tools & Technologies Used
 Python
 NumPy
@@ -58,7 +71,8 @@ Pandas
 Scikit-learn
 FastAPI
 Streamlit
-Hugging Face Spaces / Render
+Hugging Face Spaces 
+Render
 
 🌐 Model Deployment
 The training includes end-to-end model deployment, where trained machine learning models are:
