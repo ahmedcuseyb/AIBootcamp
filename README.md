@@ -8,11 +8,17 @@ The program is designed to take learners from foundational concepts to real-worl
 By the end of this training, participants gain a solid understanding of:
 
 Data preprocessing
+
 Feature engineering
+
 Machine learning algorithms
+
 Model evaluation
+
 User interfaces
+
 Model deployment
+
 
 🎯 Training Objectives
 
