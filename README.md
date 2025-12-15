@@ -91,6 +91,7 @@ Teaching material
 Portfolio showcase
 
 🧠 Program Details
+
 Organized by: [AI SOMALIA](https://www.linkedin.com/company/ai-somalia/)  
 Lead Trainer: [Ahmed Bicir](https://www.linkedin.com/in/ahmed-bicir/)
 
