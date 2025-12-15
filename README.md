@@ -92,7 +92,7 @@ Portfolio showcase
 
 🧠 Program Details
 Organized by: [AI SOMALIA](https://www.linkedin.com/company/ai-somalia/)  
-Lead Trainer: @ahmedcuseyb | [LinkedIn](https://www.linkedin.com/in/ahmed-bicir/)
+Lead Trainer: [Ahmed Bicir](https://www.linkedin.com/in/ahmed-bicir/)
 
 📬 Contact
 For collaboration, teaching, or feedback, feel free to reach out.
