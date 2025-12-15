@@ -15,6 +15,7 @@ User interfaces
 Model deployment
 
 🎯 Training Objectives
+
 Build strong foundations in Machine Learning
 Understand supervised and unsupervised learning
 Apply feature engineering techniques
@@ -65,6 +66,7 @@ Trained and evaluated machine learning models
 Built user interfaces.
 
 🛠️ Tools & Technologies Used
+
 Python
 NumPy
 Pandas
@@ -75,6 +77,7 @@ Hugging Face Spaces
 Render
 
 🌐 Model Deployment
+
 The training includes end-to-end model deployment, where trained machine learning models are:
 Wrapped using FastAPI
 Exposed as APIs
@@ -83,6 +86,7 @@ Deployed online
 Connected to frontend applications (HTML / JavaScript / React)
 
 🏆 Completion Statement
+
 Proudly completed a 7-Day Machine Learning Training Journey — from data preprocessing to real-world model deployment.
 This repository serves as:
 Training documentation
