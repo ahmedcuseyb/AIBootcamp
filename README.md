@@ -24,22 +24,27 @@ Connect ML models to user interfaces
 Python basics
 Machine Learning Libraries
     Pandas,Numpy, matplotlib,seaborn
+    
 🔹 Day 1: Introduction
 What is Machine Learning?
 Types of Machine Learning
 ML workflow and real-world use cases
+
 🔹 Day 2: Data Preprocessing
 Handling missing values
 Handling Outliers
+
 🔹 Day 3: Feature Engineering
 
 Feature scaling and normalization(Numerical variables)
 Encoding categorical variables
 Feature selection
+
 🔹 Day 4: Supervised Learning
 Regression and classification concepts
 Model training and evaluation
 Performance metrics
+
 🔹 Day 5: Streamlit Interface (UI) & Model Deployment
 Building simple ML user interfaces(Streamlit)
 Deploying user interface and models for real-world use
