@@ -126,9 +126,24 @@ Teaching material
 
 Portfolio showcase
 
+Who This Is For
+
+Students learning Machine Learning
+
+Beginners in Data Science
+
+Anyone who wants hands-on practice with ML notebooks
+
 Notion Content: [Notion Content](https://www.notion.so/7-Day-Machine-Learning-and-Data-Science-Training-Program-2b4e419edf32807c8779e40742278225?source=copy_link)
 
 Github Repo: [github repo](https://github.com/ahmedcuseyb/AIBootcamp)
+
+Clone the Repository
+
+Open a terminal (Command Prompt, PowerShell, or Git Bash) and run:
+git clone https://github.com/ahmedcuseyb/AIBootcamp.git
+
+
 
 🧠 Program Details
 
@@ -139,5 +154,6 @@ Lead Trainer: [Ahmed Bicir](https://www.linkedin.com/in/ahmed-cuseyb/)
 📬 Contact
 For collaboration, teaching, or feedback, feel free to reach out.
 
+If you find this repository helpful, please consider giving it a star ⭐ on GitHub — it really supports the work and helps others discover it!
 
 
