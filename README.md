@@ -145,6 +145,9 @@ Beginners in Data Science
 
 Anyone who wants hands-on practice with ML notebooks
 
+
+📂 Course Content & Code
+
 Notion Content: [Notion Content](https://www.notion.so/7-Day-Machine-Learning-and-Data-Science-Training-Program-2b4e419edf32807c8779e40742278225?source=copy_link)
 
 Github Repo: [github repo](https://github.com/ahmedcuseyb/AIBootcamp)
@@ -154,6 +157,7 @@ Clone the Repository
 Open a terminal (Command Prompt, PowerShell, or Git Bash) and run:
 
 git clone https://github.com/ahmedcuseyb/AIBootcamp.git
+
 
 
 
@@ -172,6 +176,7 @@ An interactive learning platform offering hands-on courses in Python, Data Scien
 A platform for practicing Machine Learning and Data Science through real-world datasets, competitions, and notebooks.
 
 Simplilearn: [Simplilearn](https://www.youtube.com/user/Simplilearn)
+
 
 🧠 Program Details
 
