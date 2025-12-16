@@ -141,6 +141,7 @@ Github Repo: [github repo](https://github.com/ahmedcuseyb/AIBootcamp)
 Clone the Repository
 
 Open a terminal (Command Prompt, PowerShell, or Git Bash) and run:
+
 git clone https://github.com/ahmedcuseyb/AIBootcamp.git
 
 
