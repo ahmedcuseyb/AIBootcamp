@@ -2,8 +2,8 @@
 
  Overview
  
-This repository documents a 7-day Machine Learning training program structured into 5 days of guided learning and 2 days of hands-on practical implementation.
-The program is designed to take learners from foundational concepts to real-world machine learning model deployment, with strong emphasis on practice and real applications.
+This repository documents a 7-day intensive Machine Learning training program designed to take learners from foundational concepts to real-world model deployment.
+The program emphasizes hands-on practice, clear explanations, and practical deployment using modern tools.
 
 By the end of this training, participants gain a solid understanding of:
 
