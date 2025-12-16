@@ -123,7 +123,9 @@ This repository serves as:
 Training documentation
 Learning reference
 Teaching material
+
 Portfolio showcase
+
 Notion Content: [Notion Content](https://www.notion.so/7-Day-Machine-Learning-and-Data-Science-Training-Program-2b4e419edf32807c8779e40742278225?source=copy_link)
 
 Github Repo:[github repo](https://github.com/ahmedcuseyb/AIBootcamp)
