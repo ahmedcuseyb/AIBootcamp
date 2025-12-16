@@ -157,6 +157,16 @@ git clone https://github.com/ahmedcuseyb/AIBootcamp.git
 
 
 
+📚 Helpful Learning Resources
+
+YouTube: [toodmind](https://www.youtube.com/@toodmind)
+
+Offers practical Machine Learning lessons for beginners.
+
+DataCamp: [DataCamp](https://www.datacamp.com)
+
+An interactive learning platform offering hands-on courses in Python, Data Science, and Machine Learning.
+
 🧠 Program Details
 
 Organized by: [AI SOMALIA](https://www.linkedin.com/company/ai-somalia/)  
