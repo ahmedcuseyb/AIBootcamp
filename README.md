@@ -1,8 +1,9 @@
-7-Day Machine Learning Training Program
+7-Day Machine Learning and Data Science Training Program
 
  Overview
  
-This repository documents a 7-day intensive Machine Learning training program designed to take learners from foundational concepts to real-world model deployment.
+This repository documents a 7-day intensive Machine Learning $ Data Science training program designed to take learners from foundational concepts to real-world model deployment.
+
 The program emphasizes hands-on practice, clear explanations, and practical deployment using modern tools.
 
 By the end of this training, participants gain a solid understanding of machine learning Workflow
@@ -25,22 +26,10 @@ Training & Evaluation
 
 Deployment
 
-Data preprocessing
-
-Feature engineering
-
-Machine learning algorithms
-
-Model evaluation
-
-User interfaces
-
-Model deployment
-
 
 🎯 Training Objectives
 
-Build strong foundations in Machine Learning
+Build strong foundations in Machine Learning.
 Understand supervised and unsupervised learning
 Apply feature engineering techniques
 Deploy trained models for real-world usage
@@ -128,9 +117,13 @@ Render
 
 The training includes end-to-end model deployment, where trained machine learning models are:
 Wrapped using FastAPI
+
 Exposed as APIs
+
 Tested locally
+
 Deployed online
+
 Connected to frontend applications (HTML / JavaScript / React)
 
 🏆 Completion Statement
