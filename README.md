@@ -128,7 +128,7 @@ Connected to frontend applications (HTML / JavaScript / React)
 
 🏆 Completion Statement
 
-Proudly completed a 7-Day Machine Learning Training Journey — from data preprocessing to real-world model deployment.
+Proudly completed a 7-Day Machine Learning Training $ Data Science Journey — from data preprocessing to real-world model deployment.
 
 This repository serves as:
 Training documentation
