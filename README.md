@@ -161,11 +161,17 @@ git clone https://github.com/ahmedcuseyb/AIBootcamp.git
 
 YouTube: [toodmind](https://www.youtube.com/@toodmind)
 
-Offers practical Machine Learning lessons for beginners.
+Provides beginner-friendly, practical Machine Learning tutorials with explanations in Somali.
 
 DataCamp: [DataCamp](https://www.datacamp.com)
 
 An interactive learning platform offering hands-on courses in Python, Data Science, and Machine Learning.
+
+[Kaggle](https://www.kaggle.com/):
+
+A platform for practicing Machine Learning and Data Science through real-world datasets, competitions, and notebooks.
+
+Simplilearn: [Simplilearn](https://www.youtube.com/user/Simplilearn)
 
 🧠 Program Details
 
