@@ -5,7 +5,25 @@
 This repository documents a 7-day intensive Machine Learning training program designed to take learners from foundational concepts to real-world model deployment.
 The program emphasizes hands-on practice, clear explanations, and practical deployment using modern tools.
 
-By the end of this training, participants gain a solid understanding of:
+By the end of this training, participants gain a solid understanding of machine learning Workflow
+
+🔄 Machine Learning Workflow
+
+Problem Definition
+
+Data Collection
+
+Data Cleaning and Preprocessing
+
+Feature Engineering
+
+Train / Test Split
+
+Model Selection
+
+Training & Evaluation
+
+Deployment
 
 Data preprocessing
 
